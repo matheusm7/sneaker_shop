@@ -1,16 +1,25 @@
-# sneaker_shop
+Sneaker Shop
 
-A new Flutter project.
+Este é um aplicativo simples desenvolvido em Flutter que simula uma experiência de compra de tênis inspirada na Nike. O aplicativo utiliza o pacote provider para gerenciamento de estado e a barra de navegação do Google (google_nav_bar). Ele permite aos usuários adicionar tênis ao carrinho e possui um método para exclusão de itens.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Adição de tênis ao carrinho
+- Exclusão de tênis do carrinho
+- Interface inspirada na Nike
 
-A few resources to get you started if this is your first Flutter project:
+## Requisitos de Sistema
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Certifique-se de ter o Flutter e o Dart instalados em seu sistema. Você pode seguir as instruções de instalação no site oficial do Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependências
+
+Certifique-se de ter as dependências necessárias instaladas. Você pode instalá-las executando:
+
+flutter pub get
+
+Certifique-se de verificar o arquivo pubspec.yaml para obter informações sobre as versões específicas das dependências.
+
+## Contribuição
+
+Sinta-se à vontade para contribuir para o desenvolvimento deste aplicativo. Você pode abrir problemas para relatar bugs ou sugerir melhorias. Pull requests também são bem-vindos.
